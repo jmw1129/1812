@@ -86,3 +86,5 @@ git是一个linus Torvalds 为了帮助管理Linus内核而开发的一个开源
 dev 分支上的代码
 q
 dev 分支上的代码2
+
+alert("你好")
