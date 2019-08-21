@@ -80,3 +80,9 @@ git config —－global user.name “github用户名”
 2、克隆下来之后，你开发。添加到本地库
 3、提交代码
 
+git是一款高效 开源分布式版本控制系统，用于处理或大或小的项目版本管理，
+git是一个linus Torvalds 为了帮助管理Linus内核而开发的一个开源的版本控制软件
+
+dev 分支上的代码
+
+dev 分支上的代码2
