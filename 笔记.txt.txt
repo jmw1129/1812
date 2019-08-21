@@ -89,4 +89,11 @@ dev 分支上的代码2
 
 alert("你好")
 
+dev1
+
+alert("你好")
 alert("欢迎")
+
+什么是git
+
+git本地冲突怎么解决
